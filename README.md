@@ -15,6 +15,7 @@ This is a Power BI project analyzing 4 years of performance data for EIC, an ins
 
 ## 📁 File
 - `EIC 4 yrs Analysis Dashboard Project.pbix`
+- C:\Users\DELL\Downloads - link
 
 ## 💡 Purpose
 Built to practice end-to-end Power BI skills and gain insight into real business scenarios in the insurance domain.
