@@ -2,6 +2,7 @@
 
 This is a Power BI project analyzing 4 years of performance data for EIC, an insurance company. The goal was to understand trends in losses, claims, and regional performance.
 
+## Data set uesd EIC (ethiopian insurance company) , Dataset available in “Mendely data”
 ## 🔧 Tools Used
 - Power BI (Report design)
 - Power Query (Data cleaning)
